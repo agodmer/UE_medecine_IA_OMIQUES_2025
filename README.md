@@ -21,6 +21,7 @@ L'évolution rapide des technologies numériques, couplée à une augmentation e
 → [tutoriel à lire pour google gollab](https://www.marqo.ai/blog/getting-started-with-google-colab-a-beginners-guide)
 
 - (2) **Installation de Anaconda (pour votre ordinateur perso)**
+
 → [Anaconda](https://www.anaconda.com/download)
 
 ## Intervenants 
