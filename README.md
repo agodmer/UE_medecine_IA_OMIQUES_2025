@@ -2,32 +2,29 @@
 
 <div style="text-align: center;">
   <div style="display: inline-block; margin-right: 40px;">
-    <img src="Images/1200px-Logo_Sorbonne_Université.png" width="200" height="100" alt="Logo Sorbonne">
+    <img src="https://upload.wikimedia.org/wikipedia/fr/2/2c/Logo_sante_horiz_rvb.svg" width="150" height="100" alt="Logo Sorbonne">
   </div>
   <div style="display: inline-block;">
     <img src="Images/scai_logo.jfif" width="150" height="150" alt="Logo SCAI">
   </div>
 </div>
 
+
 ## Présentation de l'UE
 
 L'évolution rapide des technologies numériques, couplée à une augmentation exponentielle du volume de données hétérogènes (Big Data), notamment dans le domaine de la santé, soulève un défi majeur. Il est devenu impératif de préparer les futurs professionnels de santé à maîtriser ces outils et à comprendre leurs enjeux. En effet, les technologies numériques, incluant l'intelligence artificielle (IA), s'apprêtent à révolutionner divers secteurs en médecine. 
 
 ## Pré-requis
-- **(1) Création d'un compte google colab**
+- **(1) Création d'un compte [Google colab](https://colab.research.google.com/) + → [Tutoriel à lire pour google gollab](https://www.marqo.ai/blog/getting-started-with-google-colab-a-beginners-guide)**
 
-→ [Google colab](https://colab.research.google.com/).
+- **(2) Création d'un compte [GitHub](https://docs.github.com/fr/get-started/start-your-journey/creating-an-account-on-github)**
+  
+- **(3) Votre forum de [discussion](https://github.com/agodmer/UE_medecine_IA_OMIQUES_2025/discussions)**
 
-→ [tutoriel à lire pour google gollab](https://www.marqo.ai/blog/getting-started-with-google-colab-a-beginners-guide)
+- **(4) Installation de [Anaconda](https://www.anaconda.com/download) (pour votre ordinateur perso)**
 
-- **(2) Création d'un compte GitHub**
-→ [GitHub](https://docs.github.com/fr/get-started/start-your-journey/creating-an-account-on-github)
 
-- **(3) Installation de Anaconda (pour votre ordinateur perso)**
-
-→ [Anaconda](https://www.anaconda.com/download)
-
-## Intervenants 
+## Responsables
 
 - Dr Guillaume Bachelot (AHU Biologie de la reproduction - CECOS, site Tenon, Sorbonne-Université)
   
@@ -37,8 +34,6 @@ L'évolution rapide des technologies numériques, couplée à une augmentation e
 
 
 ## Programme
-# Programme UEIR IA et "-Omiques" – DFGSM2  
-**Responsables : A. Lamazière, A. Godmer, G. Bachelot**  
 
 | Matin 9h-12h | Après-midi 14h-17h |
 |-------------|--------------------|
