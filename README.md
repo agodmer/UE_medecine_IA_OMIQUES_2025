@@ -37,11 +37,11 @@ L'évolution rapide des technologies numériques, couplée à une augmentation e
 | Jour     | Date          | Activités (14h-17h) |
 |----------|---------------|---------------------------------------------------|
 | Lundi    | 31 mars 2025 | Introduction IA ; Statistiques et méthodes non supervisées (A LAMAZIERE / A GODMER) |
-| Mardi    | 1 avril 2025| Initiation à Python (partie 1 et partie 2) (A LAMAZIERE / A GODMER) |
+| Mardi    | 1 avril 2025 | Initiation à Python (partie 1 et partie 2) (A LAMAZIERE / A GODMER) |
 | Mercredi | 2 avril 2025 | Comprendre le Machine Learning avec Python (A LAMAZIERE / A GODMER)|
 | Jeudi    | 3 avril 2025 | Initiation au Machine Learning sur un jeu de donnée médicale (A LAMAZIERE / A GODMER) |
-| Vendredi | 4 avril 2025 | Presentation du Data Challenge + travail personnel (A LAMAZIERE / A GODMER) |
-| Lundi    | 7 avril 2025 | Travail personnel |
+| Vendredi | 4 avril 2025 | Travail personnel |
+| Lundi    | 7 avril 2025 |Presentation du Data Challenge + travail personnel (A LAMAZIERE / A GODMER) |
 | Mardi    | 8 avril 2025 | Travail personnel |
 | Mercredi | 9 avril 2025    | Travail personnel |
 | Jeudi    | 10 avril 2025    | Evaluation |
