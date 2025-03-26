@@ -15,7 +15,7 @@
 L'évolution rapide des technologies numériques, couplée à une augmentation exponentielle du volume de données hétérogènes (Big Data), notamment dans le domaine de la santé, soulève un défi majeur. Il est devenu impératif de préparer les futurs professionnels de santé à maîtriser ces outils et à comprendre leurs enjeux. En effet, les technologies numériques, incluant l'intelligence artificielle (IA), s'apprêtent à révolutionner divers secteurs en médecine. 
 
 ## Pré-requis
-- **(1) Création d'un compte [Google colab](https://colab.research.google.com/) + → [Tutoriel à lire pour google gollab](https://www.marqo.ai/blog/getting-started-with-google-colab-a-beginners-guide)**
+- **(1) Création d'un compte [Google colab](https://colab.research.google.com/) + [Tutoriel à lire pour google gollab](https://www.marqo.ai/blog/getting-started-with-google-colab-a-beginners-guide)**
 
 - **(2) Création d'un compte [GitHub](https://docs.github.com/fr/get-started/start-your-journey/creating-an-account-on-github)**
   
