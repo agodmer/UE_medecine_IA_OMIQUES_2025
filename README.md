@@ -34,18 +34,22 @@ L'évolution rapide des technologies numériques, couplée à une augmentation e
 
 
 ## Programme
-| Jour     | Date          | Activités (14h-17h) |
-|----------|---------------|---------------------------------------------------|
-| Lundi    | 31 mars 2025 | Introduction IA ; Statistiques et méthodes non supervisées (A LAMAZIERE / A GODMER) |
-| Mardi    | 1 avril 2025 | Initiation à Python (partie 1 et partie 2) (A LAMAZIERE / A GODMER) |
-| Mercredi | 2 avril 2025 | Comprendre le Machine Learning avec Python (A LAMAZIERE / A GODMER)|
-| Jeudi    | 3 avril 2025 | Initiation au Machine Learning sur un jeu de donnée médicale (A LAMAZIERE / A GODMER) |
-| Vendredi | 4 avril 2025 | Travail personnel |
-| Lundi    | 7 avril 2025 |Presentation du Data Challenge + travail personnel (A LAMAZIERE / A GODMER) |
-| Mardi    | 8 avril 2025 | Travail personnel |
-| Mercredi | 9 avril 2025    | Travail personnel |
-| Jeudi    | 10 avril 2025    | Evaluation |
-| Vendredi | 11 avril 2025    | 9h - 17h : Mini Congrès Recherche clinique et IA - Présentation des DFGSM3 aux DFGSM2 des deux parcours IA |
+# Programme UEIR IA et "-Omiques" – DFGSM2  
+**Responsables : A. Lamazière, A. Godmer, G. Bachelot**  
+
+| Matin 9h-12h | Après-midi 14h-17h |
+|-------------|--------------------|
+| **Paramétrage des comptes + Introduction IA ; Statistiques et méthodes non supervisées**<br>(A. Lamazière / A. Godmer) | **14h - Présentation des 2 UE** (F. Dhombres / A. Lamazière, 1h)<br>**14h30 - Introduction aux différents types d'IA** (F. Dhombres, 1h)<br>**15h30 - Introduction au NGS** (T. Courtin, 1h) |
+| **9h - Retour d’expérience sur le développement d’une IA en infertilité masculine**, comparaison des grandes approches de machine learning (G. Bachelot / A. Godmer, 1h)<br>**10h - IA et OMICs** (A. Lamazière, 2h) | **Initiation à Python (partie 1 et partie 2)**<br>(A. Lamazière / A. Godmer) |
+| **9h - IA et Paludisme** : application à la télé-expertise, au diagnostic, et à la santé publique (C. Nabet, 1h)<br>**10h - Intérêt du codage en recherche** : exemple de l’IA appliquée à la spectrométrie de masse (A. Godmer, 1h)<br>**11h - IA appliquée à l’anatomopathologie des syndromes de Lynch et Lunch-like** (M. Svrék) | **Comprendre le Machine Learning avec Python**<br>(A. Lamazière / A. Godmer) |
+| **9h - IA et cas d’usage sur les données patient d’un entrepôt de données de santé (EDS)** (C. Gerardin)<br>**10h - IA appliquée au diagnostic en cytologie hématologique** (F. Delhommeau, 1h)<br>**11h - IA appliquée à la sénologie** (I. Thomassin – Zoom à confirmer) | **Initiation au Machine Learning sur un jeu de donnée médicale**<br>(A. Lamazière / A. Godmer) |
+| **9h - Matinée bibliographie "IA en médecine"** (F. Dhombres)<br>Recherches bibliographiques (MeSH, PubMed), analyse d’article et types d’études, présentation du format attendu de la présentation de fin d’UE | Travail personnel |
+| **9h - Retour d’expérience : développement de méthodes d’IA symbolique et numérique** pour l’aide à la décision en cancérologie (cancer du sein) (A. Redjal, 1h)<br>**10h - IA hybride appliquée à l’échographie fœtale** (F. Dhombres) | **Présentation du Data Challenge + questions**<br>(A. Lamazière / A. Godmer) |
+| **9h - AI-assisted nephrogenomics** (L. Mesnard)<br>**10h - Machine Learning en médecine : mises en situations** (A. Godmer, G. Bachelot)<br>**11h - IA appliquée au traitement automatique des langues dans le domaine de la santé : principes et exemples** (X. Tannier, C. Gerardin) | Travail personnel |
+| Travail personnel | Travail personnel |
+| Travail personnel | **Évaluation** |
+| **CONGRÈS Mini Congrès Rechercher clinique et IA – LCA – Présentation des DFGSM3 aux DFGSM2** | **CONGRÈS Mini Congrès Rechercher clinique et IA – LCA – Présentation des DFGSM3 aux DFGSM2** |
+
 
 ## Evaluation de l'UE :
 
