@@ -20,7 +20,10 @@ L'évolution rapide des technologies numériques, couplée à une augmentation e
 
 → [tutoriel à lire pour google gollab](https://www.marqo.ai/blog/getting-started-with-google-colab-a-beginners-guide)
 
-- (2) **Installation de Anaconda (pour votre ordinateur perso)**
+- **(2) Création d'un compte GitHub**
+→ [GitHub](https://docs.github.com/fr/get-started/start-your-journey/creating-an-account-on-github)
+
+- **(3) Installation de Anaconda (pour votre ordinateur perso)**
 
 → [Anaconda](https://www.anaconda.com/download)
 
