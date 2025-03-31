@@ -32,6 +32,7 @@ L'évolution rapide des technologies numériques, couplée à une augmentation e
   
 - Pr Antonin Lamazière
 
+- Dr Orlando Schilton (DJ, Pédiatre, hôpital Trousseau, Sorbonne-Université)
 
 ## Programme
 
